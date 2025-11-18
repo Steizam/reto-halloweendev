@@ -11,6 +11,6 @@ RETO 3 = ✅
 
 RETO 4 = ✅
 
-RETO 5 =
+RETO 5 = ✅
 
-RETO 6 =
+RETO 6 = ✅
